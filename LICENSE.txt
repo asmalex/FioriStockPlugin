@@ -204,7 +204,7 @@
 Sample Extension SUBCOMPONENTS:
 
 This sample extension includes the following subcomponents that are subject to separate license terms.
-Your use of these subcomponents is subject to the seperate license terms applicable to
+Your use of these subcomponents is subject to the separate license terms applicable to
 each subcomponent.
 
 Component: JSON in Java
